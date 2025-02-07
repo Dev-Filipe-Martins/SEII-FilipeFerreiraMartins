@@ -9,3 +9,70 @@ git push origin master   =   Envie alterações oara o ramo mestre
 git remote add origin    =   Conecta a um repositório
 git checkout             =   Mude de um ramo para outro
 git pull                 =   Buscar e mesclar alterações no servidor
+
+Lista de comandos
+A) 30 comandos do Terminal Linux BÄSICOS que voce PRECISA SABER para ser um HACKER:
+https://www.youtube.com/watch?v=QZ2nyxzZXPY
+
+	ls
+Lista arquivos e diretórios no diretório atual
+
+	man
+Exibe o manual de um comando
+
+	clear
+Lima a tela do terminal
+
+	mkdir 
+Cria um novo diretório
+
+	cd
+Altera o diretório atual
+
+	pwd
+Exibe o caminho do diretório atual
+
+	whoami
+Exibe o nome do usuário atual
+
+	Redirecionadores
+>: Redireciona a saída de um comando para um arquivo (sobrescreve).
+>>: Redireciona a saída de um comando para um arquivo (anexa).
+<: Redireciona a entrada de um comando de um arquivo.
+|: Envia a saída de um comando para a entrada de outro comando.
+
+	touch
+Cria um arquivo vazio
+
+	nano 
+Abre um editor de texto para criar ou editar arquivos
+
+	cat
+Exibe o conteúdo de um arquivo
+
+	mv 
+Move ou renomeia arquivos e diretórios
+
+	cp 
+Copia arquivos e diretórios
+
+	find
+Procura por arquivos e diretórios
+
+	head
+Exibe as primeiras linhas de um arquivo.
+
+	tail
+Exibe as últimas linhas de um arquivo.
+
+	less
+Permite visualizar arquivos longos
+
+	rm 
+Remove arquivos
+
+	rmdir 
+Remove diretórios vazios
+
+	rm -rf 
+Remove diretórios e arquivos recursivamente

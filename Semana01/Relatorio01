@@ -47,6 +47,10 @@ Cria um arquivo vazio
 	nano 
 Abre um editor de texto para criar ou editar arquivos
 
+<p align="center">
+<img src="./images/comp-link.png" alt="drawing" width="250">
+</p>
+
 	cat
 Exibe o conteúdo de um arquivo
 

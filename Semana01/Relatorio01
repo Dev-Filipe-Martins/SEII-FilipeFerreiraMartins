@@ -80,3 +80,52 @@ Remove diretórios vazios
 
 	rm -rf 
 Remove diretórios e arquivos recursivamente
+
+
+
+O Linux File System (Sistema de Arquivos do Linux) é a estrutura hierárquica usada pelo sistema operacional Linux para organizar arquivos e diretórios. No Linux, tudo é tratado como um arquivo, incluindo dispositivos de hardware e processos em execução. A estrutura é organizada como uma árvore invertida, onde a raiz (o diretório principal) é representada pelo símbolo /. Aqui está um resumo da estrutura básica:
+
+1. Diretório Raiz (/)
+É o topo da hierarquia. A partir dele, todos os outros diretórios e arquivos são organizados. Tudo no sistema de arquivos Linux começa aqui.
+
+2. Diretórios Comuns
+Abaixo da raiz, encontramos uma série de diretórios padrão que possuem funções específicas:
+
+/bin: Contém binários essenciais que são usados pelos usuários e pelo sistema, como comandos básicos (ex: ls, cp, mv).
+
+/boot: Armazena arquivos necessários para a inicialização do sistema, como o kernel do Linux e arquivos de configuração de boot.
+
+/dev: Contém arquivos de dispositivos, que são interfaces para dispositivos de hardware (ex: discos rígidos, dispositivos USB, etc.). Em Linux, dispositivos são tratados como arquivos.
+
+/etc: Contém arquivos de configuração do sistema, como os arquivos de configuração de rede, do sistema de inicialização e de serviços. Exemplo: /etc/passwd armazena informações dos usuários.
+
+/home: Diretório que armazena as pastas de usuários do sistema. Cada usuário tem um diretório pessoal onde guarda seus arquivos, como /home/filipe.
+
+/lib: Armazena bibliotecas essenciais que os programas usam para executar suas funções. As bibliotecas compartilhadas são usadas por binários do sistema.
+
+/media: Local onde sistemas de arquivos removíveis, como unidades USB, CDs, e DVDs, são montados automaticamente.
+
+/mnt: Tradicionalmente usado para montar temporariamente sistemas de arquivos durante a manutenção ou operações manuais.
+
+/opt: Contém pacotes de software opcionais e aplicativos que não fazem parte da instalação padrão do sistema.
+
+/proc: Sistema de arquivos virtual que armazena informações sobre processos em execução e recursos do sistema. Aqui, não há arquivos no sentido físico, mas sim interfaces para o kernel.
+
+/root: Diretório home do usuário root (administrador do sistema).
+
+/sbin: Contém binários essenciais usados pelo superusuário (root), como comandos de administração e manutenção do sistema (ex: fsck, reboot).
+
+/tmp: Diretório para armazenamento temporário de arquivos. Geralmente, os arquivos aqui são apagados quando o sistema é reiniciado.
+
+/usr: Contém a maior parte dos arquivos de usuário e programas adicionais instalados. Ele é subdividido em outros diretórios:
+
+/usr/bin: Binários de programas de uso geral do sistema.
+/usr/lib: Bibliotecas para os programas do /usr/bin.
+/usr/local: Local para instalação de softwares que não são gerenciados pelo gerenciador de pacotes do sistema.
+/var: Contém arquivos variáveis como logs, filas de email, impressoras, e outros dados que mudam dinamicamente (ex: /var/log guarda arquivos de log do sistema).
+
+3. Sistemas de Arquivos
+O Linux suporta diferentes tipos de sistemas de arquivos, como:
+
+Ext4: Um dos sistemas de arquivos mais usados em distribuições Linux modernas.
+XFS e Btrfs: Outras opções avançadas com melhor suporte a grandes volumes de dados e recursos como snapshots.

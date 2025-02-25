@@ -5,7 +5,7 @@ GIT comandos básicos
 git init                 =   Crie um novo repositório local
 git add .                =   Adicionar um ou mais arquivos
 git commit -m ""         =   Comprometa alterações
-git push origin master   =   Envie alterações oara o ramo mestre
+git push origin master   =   Envie alterações para o ramo mestre
 git remote add origin    =   Conecta a um repositório
 git checkout             =   Mude de um ramo para outro
 git pull                 =   Buscar e mesclar alterações no servidor

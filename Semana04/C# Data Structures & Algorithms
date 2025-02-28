@@ -1,0 +1,15 @@
+C#
+
+Data Structures and Algorithms
+
+O conceito de estruturas de dados e algoritmos em C#, destacando a relevância dos tipos de dados abstratos (ADT) como classes responsáveis pelo armazenamento e manipulação de dados. O instrutor ressalta que, embora nem todos os desenvolvedores iniciantes precisem dominar ADTs, esse conhecimento é valioso para cargos mais avançados e para uma compreensão mais profunda da programação orientada a objetos. O curso será realizado no Visual Studio, utilizando o .NET Core, e o próximo tema abordará a notação Big O.
+
+Este curso de estruturas de dados e algoritmos é acessível a desenvolvedores de diferentes níveis, fazendo distinções claras entre os conhecimentos necessários para desenvolvedores juniores e avançados. O conteúdo é voltado para ajudar os participantes a ingressar em empresas como Microsoft e Google. O instrutor reconhece as dificuldades enfrentadas por desenvolvedores autodidatas e tranquiliza os alunos, explicando que não é necessário dominar tudo de uma vez.
+
+Na seção introdutória, é explicado que os tipos de dados abstratos (ADT) são classes que armazenam e operam sobre dados. Exemplos de ADTs incluem listas, filas e pilhas, que são estruturas que manipulam informações. Além disso, o acrônimo CRUD (Criar, Ler, Atualizar, Deletar) é utilizado para descrever as principais operações realizadas sobre dados. A próxima etapa envolve a criação de um projeto de aplicativo console para trabalhar com um tipo de dado abstrato.
+
+Em outra seção, o instrutor exemplifica a criação de um tipo abstrato de dado usando Pokémon. Ele sugere que o projeto seja nomeado "algorithms data structure" e incentiva os alunos a nomear suas pastas de maneira criativa, sem seguir regras rígidas. O objetivo é modelar os dados de Pokémon como um tipo abstrato, ressaltando a flexibilidade na modelagem e a importância de aproveitar o processo de criação.
+
+A importância das classes e dos tipos de dados abstratos na programação é discutida em detalhes. Todas as classes seguem uma estrutura semelhante e representam dados de forma abstrata, como no exemplo dos Pokémon, que modelam dados do mundo real. A abstração permite criar implementações concretas, como a declaração de um Pokémon específico. Esses conceitos são essenciais em cursos de algoritmos.
+
+Por fim, a classe é apresentada como uma estrutura organizada para armazenar dados de forma lógica. Comparar classes a caixas de ferramentas facilita a compreensão de seu papel no armazenamento e na operação sobre dados. O uso de classes e tipos de dados abstratos torna o código mais estruturado e fácil de gerenciar, evitando a desordem que ocorreria se os dados fossem armazenados diretamente no arquivo principal.

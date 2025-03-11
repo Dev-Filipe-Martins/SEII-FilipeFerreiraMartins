@@ -31,8 +31,6 @@ Cria um novo diretório
 	cd
 Altera o diretório atual
 
-![alt text](image.png)
-
 	pwd
 Exibe o caminho do diretório atual
 
@@ -50,10 +48,6 @@ Cria um arquivo vazio
 
 	nano 
 Abre um editor de texto para criar ou editar arquivos
-
-<p align="center">
-<img src="./images/Captura de tela 2025-02-07 231912.png" alt="drawing" width="250">
-</p>
 
 	cat
 Exibe o conteúdo de um arquivo

@@ -1,3 +1,5 @@
+Aluno: Filipe Ferreira Martins (11911EAU021)
+
 Semana 01
 
 GIT comandos básicos 
@@ -28,6 +30,8 @@ Cria um novo diretório
 
 	cd
 Altera o diretório atual
+
+![alt text](image.png)
 
 	pwd
 Exibe o caminho do diretório atual

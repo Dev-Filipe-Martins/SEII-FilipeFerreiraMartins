@@ -1,0 +1,5 @@
+\\wsl.localhost\Ubuntu\home\filipe\SEII-FilipeFerreiraMartins\Semana02\Exercicio04\obj\Debug\net8.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+\\wsl.localhost\Ubuntu\home\filipe\SEII-FilipeFerreiraMartins\Semana02\Exercicio04\obj\Debug\net8.0\ConsoleApp.AssemblyInfoInputs.cache
+\\wsl.localhost\Ubuntu\home\filipe\SEII-FilipeFerreiraMartins\Semana02\Exercicio04\obj\Debug\net8.0\ConsoleApp.AssemblyInfo.cs
+\\wsl.localhost\Ubuntu\home\filipe\SEII-FilipeFerreiraMartins\Semana02\Exercicio04\obj\Debug\net8.0\ConsoleApp.csproj.CoreCompileInputs.cache
+\\wsl.localhost\Ubuntu\home\filipe\SEII-FilipeFerreiraMartins\Semana02\Exercicio04\obj\Debug\net8.0\ConsoleApp.sourcelink.json

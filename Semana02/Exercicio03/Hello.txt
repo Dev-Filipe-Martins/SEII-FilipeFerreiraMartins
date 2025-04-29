@@ -1,0 +1,13 @@
+Hello Filipe!
+
+i para inserir textos (insert)
+
+esc para sair da edição (escape)
+
+:w para escrever (write)
+:q para sair (quit)
+
+:wq escreve e sai
+
+:q! fecha sem salvar
+
